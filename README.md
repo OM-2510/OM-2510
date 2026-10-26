@@ -23,15 +23,15 @@
 
 <table align="center">
   <tr>
-    <td width="50%"><a href="https://github.com/OM-2510/ANPR"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OM-2510&repo=ANPR&theme=tokyonight&hide_border=true" /></a></td>
-    <td width="50%"><a href="https://github.com/OM-2510/GeoSense"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OM-2510&repo=GeoSense&theme=tokyonight&hide_border=true" /></a></td>
+    <td width="50%"><a href="https://github.com/OM-2510/ANPR"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OM-2510&repo=ANPR&theme=tokyonight&hide_border=true&v=1" /></a></td>
+    <td width="50%"><a href="https://github.com/OM-2510/GeoSense"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OM-2510&repo=GeoSense&theme=tokyonight&hide_border=true&v=1" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/OM-2510/hsdfjkh"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OM-2510&repo=hsdfjkh&theme=tokyonight&hide_border=true" /></a></td>
-    <td width="50%"><a href="https://github.com/OM-2510/OBD-II"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OM-2510&repo=OBD-II&theme=tokyonight&hide_border=true" /></a></td>
+    <td width="50%"><a href="https://github.com/OM-2510/hsdfjkh"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OM-2510&repo=hsdfjkh&theme=tokyonight&hide_border=true&v=1" /></a></td>
+    <td width="50%"><a href="https://github.com/OM-2510/OBD-II"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OM-2510&repo=OBD-II&theme=tokyonight&hide_border=true&v=1" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/OM-2510/ESP32-OBD-DEVICE"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OM-2510&repo=ESP32-OBD-DEVICE&theme=tokyonight&hide_border=true" /></a></td>
+    <td width="50%"><a href="https://github.com/OM-2510/ESP32-OBD-DEVICE"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OM-2510&repo=ESP32-OBD-DEVICE&theme=tokyonight&hide_border=true&v=1" /></a></td>
     <td width="50%"></td>
   </tr>
 </table>
